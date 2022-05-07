@@ -7,9 +7,9 @@ has_toc: false
 
 # Laravel - {{ page.title }}
 
-Op deze website vind je links naar de opdrachten voor de unit F3M8PROG (Laravel) van de module Werken voor opdrachtegevers (F3M8 Werken voor opdrachtgevers).
+Op deze website vind je de opdrachten en hulp-video's voor de unit F3M8PROG (Laravel) van de module Werken voor opdrachtgevers (F3M8 Werken voor opdrachtgevers).
 
-Je gaat werken in een lege repository. Je krijgt jouw persoonlijke repository door op de blauwe knop te klikken.  
+Je krijgt jouw persoonlijke (lege) repository door op de blauwe knop te klikken.  
 **Dit hoef je maar één keer te doen!**. Je maakt alle opdrachten en oefeningen in deze repository.
 
 - Kies vervolgens je eigen naam. 
@@ -20,11 +20,7 @@ Je gaat werken in een lege repository. Je krijgt jouw persoonlijke repository do
 
 ---
 
-[Lees hier hoe je vervolgens de opdrachten maakt en inlevert](instructie){: .btn .btn-green }
-
----
-
-## Lessen & Opdrachten
+## Opdrachten en ondersteunende video's
 
 {% for lesson in site.data.lessons %}
 {% assign today = "now"|date:"%Y%m%d" %}

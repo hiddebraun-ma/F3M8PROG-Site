@@ -39,7 +39,7 @@ Je bouwt je Laravel website aan de hand van deze algemene en functionele eisen.
 - Er is een simpele beheer mogelijkheid (CMS) om inhoud te beheren.
 - Bij oplevering: De website staat live en werkt naar behoren zonder fouten.
 - Bij oplevering: De website stuurt echte e-mails
-- Optioneel: Je 
+- Optioneel: Je maakt gebruik van Bootstrap SASS om makkelijker responsive layouts te maken
 - Optioneel: De feed of overzichtspagina heeft een categorie of tag waarop gefilterd kan worden.
 - Optioneel: Er is een zoekfunctie om in alle inhoud te zoeken.
 - Optioneel: Je maakt gebruik van VueJS componenten voor bepaalde functionaliteiten.

@@ -14,7 +14,8 @@ Je bouwt je Laravel website aan de hand van deze algemene en functionele eisen.
 {: .text-green-200}
 
 - Responsive op mobiel, tablet en desktop
-- Je maakt gebruik van Tailwind CSS of Bootstrap (SASS versie) en SASS en Laravel Mix voor compileren van je frontend assets
+- Je maakt gebruik van Tailwind CSS met eigen kleuren en instellingen SASS 
+- Je gebruikt Laravel Mix voor het compileren van je frontend assets
 - Je website heeft een gebruiksvriendelijke layout, design en UXD
 - Er is een duidelijk menu om door je website te navigeren
 - Je maakt regelmatige commits met duidelijk commit messages
@@ -38,6 +39,7 @@ Je bouwt je Laravel website aan de hand van deze algemene en functionele eisen.
 - Er is een simpele beheer mogelijkheid (CMS) om inhoud te beheren.
 - Bij oplevering: De website staat live en werkt naar behoren zonder fouten.
 - Bij oplevering: De website stuurt echte e-mails
+- Optioneel: Je 
 - Optioneel: De feed of overzichtspagina heeft een categorie of tag waarop gefilterd kan worden.
 - Optioneel: Er is een zoekfunctie om in alle inhoud te zoeken.
 - Optioneel: Je maakt gebruik van VueJS componenten voor bepaalde functionaliteiten.

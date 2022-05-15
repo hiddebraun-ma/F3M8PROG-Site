@@ -6,7 +6,7 @@ nav_exclude: true
 ---
 
 ## Kies het onderwerp voor jouw Laravel website
-{: .text-blue-100 .fs-5 }
+{: .text-green-100 .fs-6 }
 
 - Lees eerst de [algemene functionele eisen](../project_requirements) door zodat je weet wat er van je verwacht wordt.
 - Bedenk het onderwerp en doel van jouw nieuwe website  (of... werk verder aan de TODO-website user-stories van periode 3)

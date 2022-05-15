@@ -6,7 +6,7 @@ nav_exclude: true
 ---
 
 ## Maak een design en layout voor je website
-{: .text-blue-100 .fs-5 }
+{: .text-green-100 .fs-6 }
 
 Maak een eerste ontwerp aan de hand van je wireframe.
 Zorg dat je in ieder geval in je ontwerp (en wireframe) aan het volgende hebt gedacht:

@@ -6,6 +6,7 @@ nav_exclude: true
 ---
 
 ## Laravel project configureren
+{: .text-green-100 .fs-6 }
 
 - Configureer je Laravel project door de `.env` file aan te passen.
 - Start je database server (XAMPP / MySQL) en maak een nieuwe database .

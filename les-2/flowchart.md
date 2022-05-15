@@ -6,6 +6,7 @@ nav_exclude: true
 ---
 
 ## Flowchart maken (stroomdiagram)
+{: .text-green-100 .fs-6 }
 
 Voor je kunt beginnen aan het echte coderen moet je weten WAT je gaat coderen en welke pagina's je website bevat.
 

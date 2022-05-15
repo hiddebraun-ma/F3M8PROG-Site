@@ -6,7 +6,7 @@ nav_exclude: true
 ---
 
 ## Laravel layout maken voor jouw ontwerp
-{: .text-blue-100 .fs-5 }
+{: .text-green-100 .fs-6 }
 
 Eindelijk is het tijd om jouw ontwerp en stylen om te gaan zetten in HTML en CSS.
 
@@ -22,8 +22,12 @@ Kijk de video, om te zien hoe je een layout maakt in Laravel. Je kunt gebruik ma
 
 ---
 
-Zorg dat je na deze video de juiste configuratie hebt ingesteld en dat de Tailwind CSS in je `app.css` wordt gegenereerd met JOUW kleuren en lettertypen.
+Zorg dat je na deze video jouw website layout in Laravel werkend hebt en dat je deze kunt gebruiken voor de "views" (pagina's) die je haat maken.
 {: .text-blue-100 .fs-4 }
+
+Meer over layouts in Laravel vind je in de documentatie:
+
+- [https://laravel.com/docs/9.x/blade#building-layouts](https://laravel.com/docs/9.x/blade#building-layouts)
 
 ---
 

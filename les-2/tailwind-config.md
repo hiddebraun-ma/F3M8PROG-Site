@@ -6,7 +6,7 @@ nav_exclude: true
 ---
 
 ## Tailwind configuratie aanpassen
-{: .text-blue-100 .fs-5 }
+{: .text-green-100 .fs-6 }
 
 [Tailwind CSS](https://tailwindcss.com/docs/installation) kun je helemaal customizen met je eigen kleuren, stijlen, lettertypen en andere zaken.
 

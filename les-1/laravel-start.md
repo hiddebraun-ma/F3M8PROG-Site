@@ -6,6 +6,7 @@ nav_exclude: true
 ---
 
 ## Laravel project starten
+{: .text-green-100 .fs-6 }
 
 Maak nu in jouw lege repository een nieuw Laravel project aan met *composer*.
 Hiervoor moet je PHP 7.4+ en [composer](https://getcomposer.org) op de command-line werkend hebben

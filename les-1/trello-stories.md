@@ -5,7 +5,8 @@ permalink: :path/:basename
 nav_exclude: true
 ---
 
-## Trello bord maken 
+## Trello bord maken
+{: .text-green-100 .fs-6 }
 
 - Maak een nieuw Trello bord aan, zet deze op public
 - Maak kolommen BACKLOG, USER STORIES, TODO, DOING, DONE en VRAGEN

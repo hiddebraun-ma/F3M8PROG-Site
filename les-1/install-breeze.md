@@ -5,7 +5,8 @@ permalink: :path/:basename
 nav_exclude: true
 ---
 
-## Laravel Breeze installeren
+## Laravel Breeze installeren (inloggen/uitloggen)
+{: .text-green-100 .fs-6 }
 
 [Laravel Breeze](https://laravel.com/docs/9.x/starter-kits#laravel-breeze){: target="_blank" %} is een starter kit van Laravel die
 allerlei handige authenticatie features toevoegt aan je Laravel project.

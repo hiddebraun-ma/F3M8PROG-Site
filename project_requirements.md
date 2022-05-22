@@ -29,7 +29,7 @@ Je bouwt je Laravel website aan de hand van deze algemene en functionele eisen.
 
 - De website heeft een specifiek onderwerp: persoon/idool, club, artiest/band, hobby, portfolio, dienst...
 - Gebruikers moeten kunnen registreren en inloggen en een eigen profielpagina kunnen maken.
-- Er is een feed (uit de database) zijn met: artikelen, producten, foto's of iets anders.
+- Er is een feed (uit de database) met: artikelen, producten, foto's of iets anders.
 - Er is minstens één form om gegevens toe te voegen aan de website.
 - Er moeten foto's of andere bestanden geüpload kunnen worden door de ingelogde gebruikers.
 - Bestanden of foto's mogen alleen toegevoegd, aangepast of verwijderd worden door de eigenaar.

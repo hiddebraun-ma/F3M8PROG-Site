@@ -17,18 +17,32 @@ In de video laat ik zien hoe je deze model class kunt gebruiken om alle gegevens
 
 ---
 
-TODO: YOUTUBE: Model class:
+### Create - Gegevens toevoegen via de model class
 
-- Controller met: new Blog() + zetten properties + save();
-- all()
-- find(id);
-- update()
-- delete()
+{% include youtube.md video="u2D0iXROWDg" %}
 
 ---
 
-In de volgende opdracht ga je gegevens in jouw database toevoegen, ophalen, aanpassen en verwijderen via de Eloquent model class die je hebt gemaakt. 
+### Read - Gegevens ophalen via de model class
 
+{% include youtube.md video="Nncyfs1t-oY" %}
+
+---
+
+### Update - Gegevens aanpassen via de model class
+
+{% include youtube.md video="4DJxWrsU5eM" %}
+
+---
+
+### Delete - Gegevens verwijderen via de model class
+
+{% include youtube.md video="WXiazDP1JOA" %}
+
+
+---
+
+Zorg dat je alle CRUD operaties hebt uitgeprobeerd en kan toepassen in je code.
 {: .text-blue-100 .fs-4 }
 
 ---

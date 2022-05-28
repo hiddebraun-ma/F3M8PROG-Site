@@ -18,7 +18,7 @@ Dit ga je doen (na het kijken van de video):
 
 ---
 
-TODO: YOUTUBE: Model + migration, migration aanpassen + migrate
+{% include youtube.md video="WGYmEdzZgtM" %}
 
 ---
 

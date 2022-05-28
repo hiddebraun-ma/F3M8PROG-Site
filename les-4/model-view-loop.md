@@ -18,7 +18,7 @@ In de video laat ik zien hoe je dit doet.
 
 ---
 
-TODO: YOUTUBE: all() + aan view geven + @foreach
+{% include youtube.md video="tsZTDguVaBs" %}
 
 ---
 
